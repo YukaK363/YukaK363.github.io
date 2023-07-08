@@ -1,0 +1,26 @@
+.title {
+    color: #e5cb4b;
+  }
+.main {
+    background-color:#f5fbf6
+  }
+.title1{
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    color:#555555;
+}
+.main{
+    padding:100px 50px;
+    text-align:left;
+    width:1330px;
+    height:1500px;
+}
+.title2{
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    color:#555555;
+}
